@@ -1,4 +1,5 @@
-# Sentiment-Analysis-of-Amazon-Product-ReviewsSentiment Analysis on Amazon Electronics Reviews 📊🔍
+# Sentiment-Analysis-of-Amazon-Product-Reviews
+Sentiment Analysis on Amazon Electronics Reviews 📊🔍
 
 This project analyzes customer reviews from Amazon’s electronics category to predict sentiment using Natural Language Processing (NLP) and Machine Learning (ML). By identifying key sentiment drivers, the model helps businesses understand customer feedback, improve service strategies, and enhance product offerings.
 Objectives
