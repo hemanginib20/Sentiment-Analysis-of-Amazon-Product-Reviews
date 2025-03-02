@@ -7,8 +7,15 @@ Objectives
 ✅ Identify significant factors influencing sentiment in reviews
 ✅ Develop a predictive model for sentiment classification
 ✅ Provide actionable insights for customer experience and business strategy
+
 Dataset & Approach
 
 📊 Data – Amazon electronics reviews with sentiment labels
 🤖 Method – NLP techniques and machine learning models for sentiment analysis
 📈 Insights – Helps businesses gauge customer opinions and optimize product offerings
+
+Technologies Used
+
+📝 Text Processing – nltk, pandas
+📊 Feature Extraction – CountVectorizer, TfidfVectorizer, Word2Vec
+🤖 Machine Learning – scikit-learn (Naive Bayes, SVM, Random Forest)
